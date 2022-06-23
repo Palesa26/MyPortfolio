@@ -10,7 +10,7 @@ In the project directory, you can run:
 npm run client
 
 ## Deployment
-
+https://vercel.com/palesa26/portfoliomd
 
 
 
